@@ -1,5 +1,5 @@
 
-# markdown
+# MyReadMeGenerator
 
 
 
@@ -12,18 +12,18 @@
 6. Contributors
 7. Questions
 ## Description
-alright
+A simple readme generator
 ## Installation
-npm install
+run npm install - run npm install inquirer - run npm install axios all these commands should be run in the command line
 ## Usage
-help create readme
+This will be used to help me create readme documents for future projects this is one application I created to help me in everyday life
 ## License
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Test
-npm test
+run npm test in the command line
 ## Contributors
 no one
 ## Questions
-none
-## genius-pending | shivey hotmail
+no question for myself but feel free to use this application its for the whole world to use 
+## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars2.githubusercontent.com/u/67982777?v=4)
