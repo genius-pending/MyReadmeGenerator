@@ -14,7 +14,7 @@
 ## Description
 A simple readme generator
 ## Installation
-run npm install - run npm install inquirer - run npm install axios all these commands should be run in the command line
+run npm install - run npm install inquirer - run npm install axios-run npm init..... all these commands should be run in the command line
 ## Usage
 This will be used to help me create readme documents for future projects this is one application I created to help me in everyday life
 ## License
@@ -24,6 +24,6 @@ run npm test in the command line
 ## Contributors
 no one
 ## Questions
-no question for myself but feel free to use this application its for the whole world to use 
+no questions from myself but feel free to use this application, its for the whole world to use 
 ## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars2.githubusercontent.com/u/67982777?v=4)
