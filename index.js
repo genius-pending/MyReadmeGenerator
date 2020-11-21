@@ -83,13 +83,13 @@ inquirer.prompt([
 
 
 # Table of Contents
-1. Description
-2. Installation
-3. Usage
-4. License
-5. Test
-6. Contributors
-7. Questions
+1. Description(#description)
+2. Installation(#installation)
+3. Usage(#usage)
+4. License(#license)
+5. Test(#test)
+6. Contributors(#contribution)
+7. Questions(#question)
 ## Description
 ${data.description}
 ## Installation
