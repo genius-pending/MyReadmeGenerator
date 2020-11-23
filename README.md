@@ -28,7 +28,10 @@ no questions from myself but feel free to use this application, its for the whol
 ## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars2.githubusercontent.com/u/67982777?v=4)
 
-![](https://github.com/genius-pending/MyReadmeGenerator/blob/main/Untitled_%20Nov%2023%2C%202020%206_56%20PM.gif)
+
+
+![](https://github.com/genius-pending/MyReadmeGenerator/blob/main/ezgif.com-gif-maker%20(2).gif)
+
 
 
 ![](https://github.com/genius-pending/MyReadmeGenerator/blob/main/screenshot.png)
